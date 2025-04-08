@@ -1,10 +1,3 @@
-/*
-De cada elemento nos va a interesar la altura. El castillo mide 20 metros de alto,
- aurora 1 metro, la tipa arranca en 8 metros pero puede crecer (ya veremos cómo).
-  Además: debemos manejar el nivel de defensa del castillo (un valor numérico que arranca en 150),
- y si aurora está viva o no (nace viva).
-*/
-
 object castillo { 
     var nivelDeDefensa = 150
     method altura() = 20
