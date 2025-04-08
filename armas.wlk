@@ -1,8 +1,3 @@
-/*La ballesta nace con 10 flechas. Cada vez que se usa, pierde una flecha. 
-Está cargada si tiene flechas. Su potencia es 4.
-La jabalina nace cargada. Se puede usar solamente una vez, o sea, 
-con el primer uso deja de estar cargada. Su potencia es 30.*/
-
 object ballesta {
   var cantFlechas = 10
 
